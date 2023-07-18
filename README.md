@@ -1,4 +1,4 @@
-# Hi there 👋🏻 I'm Fabiana! Welcome to my github account! 👩🏻
+# Hi there 👋🏻 I'm Fabiana! Welcome to my github account! 
 # I'm a front-end developer:
 
 - 🔭 I'm currently studying: Flutter
