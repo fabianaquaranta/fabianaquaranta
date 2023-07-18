@@ -4,7 +4,7 @@
 - 🔭 I'm currently studying: Flutter
 - 👩🏻‍💻 I studied at ELIS the use of front-end technologies and the basics to be able to learn other technologies in the future.
 - 📫 To contact me: Linkedln in bio
-- 🗣️ Pronouns: She/her
+
 
 
  I use these technologies:
