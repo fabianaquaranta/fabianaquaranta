@@ -2,7 +2,7 @@
 
 - 🔭 Attualmente sto studiando: Flutter
 - 🌱 Ho studiato presso ELIS l'utilizzo di tecnologie front-end e le basi per poter imparare altre tecnologie in futuro.
-- 📫 Per contattarmi: in bio c'è il link di Linkedin
+- 📫 Per contattarmi: Linkedln in bio
 - 😄 Pronomi: She/her
 
 
