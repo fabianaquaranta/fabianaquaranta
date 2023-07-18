@@ -1,9 +1,9 @@
 # Hi there 👋🏻 I'm Fabiana! Welcome to my github account! 👩🏻‍💻
 
-- 🔭 Attualmente sto studiando: Flutter
-- 🌱 Ho studiato presso ELIS l'utilizzo di tecnologie front-end e le basi per poter imparare altre tecnologie in futuro.
-- 📫 Per contattarmi: Linkedln in bio
-- 😄 Pronomi: She/her
+🔭 I'm currently studying: Flutter
+🌱 I studied at ELIS the use of front-end technologies and the basics to be able to learn other technologies in the future.
+📫 To contact me: Linkedln in bio
+😄 Pronouns: She/her
 
 
 I'm a front-end developer and I use these technologies:
