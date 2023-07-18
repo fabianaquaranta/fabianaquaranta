@@ -1,23 +1,18 @@
 # Hi there 👋🏻 I'm Fabiana! Welcome to my github account! 👩🏻‍💻
+
+- 🔭 Attualmente sto studiando: Flutter
+- 🌱 Ho studiato presso ELIS l'utilizzo di tecnologie front-end e le basi per poter imparare altre tecnologie in futuro.
+- 📫 Per contattarmi: in bio c'è il link di Linkedin
+- 😄 Pronomi: She/her
+
+
 I'm a front-end developer and I use these technologies:
-
-<!--
-**fabianaquaranta/fabianaquaranta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nestjs,nodejs,ts,angular,postman,mysql,dart,flutter,figma">
   </a>
 </p>
+
+<!--
+**fabianaquaranta/fabianaquaranta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
