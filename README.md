@@ -1,7 +1,7 @@
 # Hi there 👋🏻 I'm Fabiana! Welcome to my github account! 
 # I'm a front-end developer:
 
-- 🔭 I'm currently studying: Flutter
+- 🔭 I'm currently studying: Angular
 - 👩🏻‍💻 I studied at ELIS the use of front-end technologies and the basics to be able to learn other technologies in the future.
 - 📫 To contact me: Linkedln in bio
 
